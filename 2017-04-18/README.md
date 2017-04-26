@@ -12,13 +12,13 @@ Bu sunumda öncelikle Asp.net core ile ilgili genel bilgileri edinmek için; Asp
 
 Bu sunumla;
 
-• TypeScript genel anlamıyla nedir?
-• TypeScript hangi ihtiyaçlardan doğmuştu?
-• TypeScript hangi alanlarda neden kullanılmalıdır?
-• TypeScript sentaksı nasıldır?
-• Angular 2 ile gelen farklılıklar nelerdir?
-• Angular2 TypeScript ilişkisi nasıldır?
-• TypeScript ve Angular2 proje geliştirme çatısı nasıl kurulur?
+* TypeScript genel anlamıyla nedir?
+*  TypeScript hangi ihtiyaçlardan doğmuştu?
+* TypeScript hangi alanlarda neden kullanılmalıdır?
+* TypeScript sentaksı nasıldır?
+* Angular 2 ile gelen farklılıklar nelerdir?
+* Angular2 TypeScript ilişkisi nasıldır?
+* TypeScript ve Angular2 proje geliştirme çatısı nasıl kurulur?
 
 sorularına cevap vereceğiz.
 

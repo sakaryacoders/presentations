@@ -1,5 +1,5 @@
-### Sakarya Coders
-Bu repo Sakarya Coders buluşmalarında yapılan sunumları arşivlemek için kullanılır. 
+## Sakarya Coders Sunum Deposu
+Bu depo Sakarya Coders buluşmalarında yapılan sunumları arşivlemek için kullanılır. 
 
 Sakarya Coders ile ilgili daha fazla bilgi için:
 
